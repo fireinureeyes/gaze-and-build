@@ -1,5 +1,5 @@
 # Gaze and Build
-Multiplayer game made in Unity 3D which uses [Tobii eye tracking](https://www.tobii.com/) to provide the players an additional communication layer.
+Multiplayer game made in Unity 3D using [Tobii eye tracking](https://www.tobii.com/) to provide the players an additional communication layer.
 
 Research paper: [Socialeyes: social gaze in collaborative 3D games](https://dl.acm.org/doi/10.1145/3235765.3235766)
 
