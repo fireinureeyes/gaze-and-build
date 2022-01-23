@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 8eada75b9349ca04f9d4aa9e3c71b5f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - baseplate: {instanceID: 0}
+  - car_1: {fileID: 2100000, guid: e2d040f8ed153fd4788b467fd78e40cd, type: 2}
+  - car_2: {fileID: 2100000, guid: 3cf55940930180640af03679a3231528, type: 2}
+  - car_3: {fileID: 2100000, guid: 28eece33c11dbae43bb493e8437c18d8, type: 2}
+  - car_4: {fileID: 2100000, guid: 930c7ece15fa0f44f9c8a32897b384dd, type: 2}
+  - car_5: {fileID: 2100000, guid: 05a5f63cb96a46d479b83735f694c853, type: 2}
+  - car_6: {fileID: 2100000, guid: 3d7bfa77c9cfaf6489c4df9e76626df0, type: 2}
+  - car_7: {fileID: 2100000, guid: a6166681fd8d77446a066259de6cad1f, type: 2}
+  - car_8: {fileID: 2100000, guid: 93b5ebefd9b99e44d9b6f3f2f279bf4e, type: 2}
+  - pet_1: {fileID: 2100000, guid: 54c8022ee7665d04ebbe350e2c697b7a, type: 2}
+  - pet_2: {fileID: 2100000, guid: b065ebff821554d4ab65641d3dbb3d06, type: 2}
+  - pet_3: {fileID: 2100000, guid: 0074ef7ba4c6a1e4caad4a6da47c9217, type: 2}
+  - pet_4: {fileID: 2100000, guid: bce9e7e7455f260439f312178f4016c0, type: 2}
+  - pet_5: {fileID: 2100000, guid: e92553a287bcdda449cb37526162329b, type: 2}
+  - pet_6: {fileID: 2100000, guid: 5f8200c402d10774aa61aee530cafd65, type: 2}
+  - pet_7: {fileID: 2100000, guid: a8a87f8aedf3a0c40999185e706be7e9, type: 2}
+  - pet_8: {fileID: 2100000, guid: 393330da504bee241865997dc4f1ce35, type: 2}
+  - boat_1: {fileID: 2100000, guid: b7e1901803701b043af1e50b4c3c8a77, type: 2}
+  - boat_2: {fileID: 2100000, guid: 2ae6f94ceac99724f85ce0329e186369, type: 2}
+  - boat_3: {fileID: 2100000, guid: 4376b8fba5233094a814229903b24672, type: 2}
+  - boat_4: {fileID: 2100000, guid: 0482f43ff1ed7c94bbdea3a41e87ecc9, type: 2}
+  - boat_5: {fileID: 2100000, guid: 9441f9e48b6a37a44b920022ba335eee, type: 2}
+  - boat_6: {fileID: 2100000, guid: 01c3ab332f51d0542bfadae863deb5c0, type: 2}
+  - boat_7: {fileID: 2100000, guid: 0a8dd4c94846a3d4f87e0f2d7da2f8ba, type: 2}
+  - boat_8: {fileID: 2100000, guid: dabac833ec3cd2f4e89e3a938143fa40, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
