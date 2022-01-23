@@ -13,6 +13,8 @@ For test purposes you can run the game multiple times on one PC and skip enterin
 <img src="https://raw.githubusercontent.com/fireinureeyes/gaze-and-build/main/images/2.png" width="600">
 
 ## Game settings
+<img src="https://raw.githubusercontent.com/fireinureeyes/gaze-and-build/main/images/3.png" width="600">
+
 - F1 - Condition 1 (gaze)
 - F2 - Condition 2 (social gaze)
 - F3 - Condition 3 (no gaze)
@@ -25,7 +27,7 @@ For test purposes you can run the game multiple times on one PC and skip enterin
 pushed through. As a consequence they can cooperatively build structures, for example according to
 the instructions above them
 
-<img src="https://raw.githubusercontent.com/fireinureeyes/gaze-and-build/main/images/3.png" width="600">
+<img src="https://raw.githubusercontent.com/fireinureeyes/gaze-and-build/main/images/4.png" width="600">
 
 ## Controls
 - W,A,S,D / arrows - player movement
